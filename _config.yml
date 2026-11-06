@@ -1,0 +1,18 @@
+title: Heba's Security Lab Notes
+description: Hands-on notes from isolated vulnerability research, hardening, and cloud security labs.
+theme: minima
+author: Heba
+
+# GitHub Pages will build this automatically when pushed to a repo named
+# <username>.github.io, or any repo with Pages enabled on the main branch.
+baseurl: "/PHP2Shell-Security-Lab"
+url: "https://h-youssef26.github.io"
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
